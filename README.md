@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @julian94
+- 👀 I’m interested in GIS, C#, and Amateur Radio.
+- 💞️ If anyone wants to make frontend clients for any of my projects they're very very welcome.
